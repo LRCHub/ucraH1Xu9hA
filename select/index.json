@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "I'm gonna miss you（feat. りんたる）",
+  "base_artist": "Kakeru",
+  "createdAt": "2026-02-08T15:22:47.668570Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "I'm gonna miss you (feat. りんたる)",
+      "artist": "Kakeru",
+      "has_synced": false,
+      "path": "select/pl_01_I'm_gonna_miss_you_(feat._りんたる)_Kakeru.txt"
+    }
+  ]
+}
